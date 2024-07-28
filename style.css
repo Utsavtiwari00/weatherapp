@@ -60,3 +60,27 @@ body{
     padding-top: 10px;
     font-size: 70px;
 }
+.temperature{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+}
+.randominfo{
+    display: flex;
+    justify-content: space-between;
+    padding-top: 30px;
+}
+.humidpercent{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.winds{
+    color: white;
+    font-size: 20px;
+    margin-bottom: 15px;
+}
+.windimg{
+    display: block;
+    
+}
